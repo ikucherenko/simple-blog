@@ -1,0 +1,14 @@
+click==6.7
+configobj==5.0.6
+Django==1.11.2
+humanize==0.5.1
+pgcli==1.6.0
+pgspecial==1.8.0
+prompt-toolkit==1.0.14
+psycopg2==2.7.1
+Pygments==2.2.0
+pytz==2017.2
+setproctitle==1.1.10
+six==1.10.0
+sqlparse==0.2.3
+wcwidth==0.1.7
